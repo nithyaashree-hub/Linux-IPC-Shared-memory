@@ -118,7 +118,8 @@ int main() {
 
 <img width="449" height="255" alt="WhatsApp Image 2026-05-14 at 9 34 55 AM" src="https://github.com/user-attachments/assets/9b5b5dfd-25e4-46bb-a6f9-90968fbd2d53" />
 
-<img width="449" height="255" alt="WhatsApp Image 2026-05-14 at 9 34 55 AM" src="https://github.com/user-attachments/assets/0a87d5e6-c949-48ef-a86f-bc21ae26dca2" />
+<img width="702" height="77" alt="WhatsApp Image 2026-05-14 at 9 36 19 AM" src="https://github.com/user-attachments/assets/76d88c1d-8e02-44a8-b8d0-594483099465" />
+
 
 
 # RESULT:
